@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (obj\Win32\Debug\) contains files shared from another project (kinectExample.vcxproj, kinectGame1.vcxproj, kinectGame2.vcxproj, kinectGame3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ofApp.cpp
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(65): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\smithd32\documents\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(68): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\smithd32\documents\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(69): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\smithd32\documents\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(70): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\smithd32\documents\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(71): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\smithd32\documents\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(72): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\smithd32\documents\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(73): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\smithd32\documents\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(74): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\smithd32\documents\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(151): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(248): warning C4018: '<': signed/unsigned mismatch
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(255): warning C4018: '<': signed/unsigned mismatch
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(333): warning C4018: '<': signed/unsigned mismatch
+c:\users\smithd32\documents\of_v0.10.1_vs2017_release\apps\myapps\kinectgame4\src\ofapp.cpp(340): warning C4018: '<': signed/unsigned mismatch
+  libusb-1.0.lib(core.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library bin\kinectGame4_debug.lib and object bin\kinectGame4_debug.exp
+  Generating code
+  Finished generating code
+  kinectGame4.vcxproj -> C:\Users\smithd32\Documents\of_v0.10.1_vs2017_release\apps\myApps\kinectGame4\bin\kinectGame4_debug.exe
+  
+  	                   2	C:\Users\smithd32\Documents\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\Users\smithd32\Documents\of_v0.10.1_vs2017_release\apps\myApps\kinectGame4\bin\FreeImage.dll
+  
+  	                   1	C:\Users\smithd32\Documents\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\smithd32\Documents\of_v0.10.1_vs2017_release\apps\myApps\kinectGame4\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\smithd32\Documents\of_v0.10.1_vs2017_release\apps\myApps\kinectGame4\bin\fmodexL.dll
